@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+survey_lung_cancer.csv
 
 # Spyder project settings
 .spyderproject
